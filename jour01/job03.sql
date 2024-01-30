@@ -1,4 +1,4 @@
--- Jour 1 - Ajout de la table "etudiant"
+-- Ajout de la table "etudiant"
 CREATE TABLE IF NOT EXISTS etudiant (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nom VARCHAR(255) NOT NULL,

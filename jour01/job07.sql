@@ -1,0 +1,2 @@
+-- Job07 Sauvegarde de la base de données dans le fichier laplateforme.sql
+C:\Users\ilan7>"C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqldump" -u root -p LaPlateforme > c:\Users\ilan7\Documents\laPlateforme\runtrack-bdd-python\jour01\laPlateforme.sql 

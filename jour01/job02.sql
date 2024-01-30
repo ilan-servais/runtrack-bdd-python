@@ -1,3 +1,3 @@
--- Jour 1 - Création de la base de données LaPlateforme
+-- Création de la base de données LaPlateforme
 CREATE DATABASE IF NOT EXISTS LaPlateforme;
 USE LaPlateforme;
